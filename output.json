@@ -1,0 +1,2000 @@
+{
+  "count": 16,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "absolute_url": "/opinion/10160267/breckon-v-breckon/",
+      "attorney": "",
+      "caseName": "Breckon v. Breckon",
+      "caseNameFull": "",
+      "citation": [],
+      "citeCount": 0,
+      "cluster_id": 10160267,
+      "court": "Idaho Court of Appeals",
+      "court_citation_string": "Idaho Ct. App.",
+      "court_id": "idahoctapp",
+      "dateArgued": null,
+      "dateFiled": "2024-09-05",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 69301688,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-10-23T17:45:52.727728Z",
+        "date_created": "2024-10-23T15:05:06.167940Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [
+            904333,
+            1186372,
+            2584053,
+            2600067,
+            4289457
+          ],
+          "download_url": "https://isc.idaho.gov/opinions/51281.pdf",
+          "id": 10626863,
+          "joined_by_ids": [],
+          "local_path": "pdf/2024/09/05/breckon_v._breckon.pdf",
+          "meta": {
+            "timestamp": "2024-10-23T17:45:52.719498Z",
+            "date_created": "2024-10-23T15:05:06.173162Z"
+          },
+          "per_curiam": false,
+          "sha1": "db7a8ca698dca920b527ad45f7e52207a6c20065",
+          "snippet": "               IN THE COURT OF APPEALS OF THE STATE OF IDAHO\n\n                                       Docket No. 51281\n\n KRISTIE BRECKON,                              )\n                                               ) Filed: September 5, 2024\n        Petitioner-Appellant,                  )\n                                               ) Melanie Gagnepain, Clerk\n v.                                            )\n                                               )\n JON BRECKON,                        ",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        10626863
+      ],
+      "source": "C",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8805517/jack-winter-inc-v-koratron-co/",
+      "attorney": "Foley & Lardner, by Timothy C. Frautschi, Marvin E. Klitsner, Milwaukee, Wis., Eckhoff & Hoppe, by Carl Hoppe, San Francisco, Cal., for Jack Winter, Inc., Heller, Ehrman, White & McAuliffe, by Lloyd W. Dinkelspiel, Jr., M. Laurence Popofsky, Stephen V. Bomse, Ellis & Levy, by Willard L. Ellis, Flehr, Hohbach, Test, Albritton & Herbert, by Paul D. Flehr, Limbach, Limbach & Sutton, by John P. Sutton, San Francisco, Cal., for Levi Strauss & Co., Phelps, Hall & Keller, by Glen E. Keller, Denver, Colo., Watson, Leavenworth, Kelton & Taggart, by Thomas V. Hey-man, Albert Robin, New York City, for Bayly Mfg. Co., Richards, Harris & Hubbard, by D. Carl Richards, Dallas, Tex., for Amory Garment Co. and Haggar Co., Watson, Leavenworth, Kelton & Taggart, by Thomas V. Heyman, Albert Robin, New York City, Miller, Groezinger, Pettit, Evers & Martin, by Harold C. Nachtrieb, Anthony G. Wilson, San Francisco, Cal., for Henry I. Siegel Co., Inc., King & Spalding, by Charles H. Kirbo, Charles M. Kidd, Atlanta, Ga., for Oxford Industries, Inc., Brobeck, Phleger & Harrison, by Moses Lasky, Robert S. Daggett, Richard C. Wydick, San Francisco, Cal., Lyon & Lyon, by James W. Geriak, Los Angeles, Cal., for Koratron Company, Inc. and Koracorp Industries, Inc., Paul, Weiss, Goldberg, Rifkind, Wharton & Garrison, by Simon H. Rifkind, Jay H. Topkis, Bernard Ouziel, Curtis, Morris & Safford, by Robert D. Spille, New York City, for Deering Milliken, Inc., Morrison, Foerster, Holloway, Clinton & Clark, by Girvan Peck, San Francisco, Cal., Hunton, Williams, Gay, Powell & Gibson, by Lewis T. Booker, Richmond, Va., Morgan, Finnegan, Durham & Pine, by John C. Vassil, New York City, for-Dan River Mills, Inc.",
+      "caseName": "Jack Winter, Inc. v. Koratron Co.",
+      "caseNameFull": "JACK WINTER, INC., a corporation v. KORATRON COMPANY, Inc., a corporation, Defendant KORATRON COMPANY, Inc., a corporation, Counterclaimant v. JACK WINTER, INC., a corporation, Counterclaim And All Cases Consolidated for Pretrial Purposes",
+      "citation": [
+        "329 F. Supp. 211",
+        "170 U.S.P.Q. (BNA) 316",
+        "1971 U.S. Dist. LEXIS 13490",
+        "1971 Trade Cas. (CCH) 73,742"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8805517,
+      "court": "District Court, N.D. California",
+      "court_citation_string": "N.D. Cal.",
+      "court_id": "cand",
+      "dateArgued": null,
+      "dateFiled": "1971-04-30",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Civ. A. No. 49392 and other cases, Nos. 47273, 49558, 49671, 49913, 50063, 50827, 50854, 51281, 51301, 51650, 51653, 51654 and 51691",
+      "docket_id": 66071636,
+      "judge": "Doyle",
+      "lexisCite": "1971 U.S. Dist. LEXIS 13490",
+      "meta": {
+        "timestamp": "2024-06-22T21:41:51.250695Z",
+        "date_created": "2022-11-26T13:47:17.704584Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8789760,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T05:08:46.089249Z",
+            "date_created": "2022-11-26T13:47:17.712750Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nMEMORANDUM OPINION AND ORDER RE MOTION OF DAN RIVER MILLS, INC. FOR SUMMARY JUDGMENT AS TO THIRD-PARTY COMPLAINT\nWILLIAM E. DOYLE, District Judge.\nThis is an additional facet of the so-called Koratron litigation. Orders with respect to motions for summary judgment have been issued recently, following extensive hearings on February 25-26, with respect to the validity of the \u2019432 patent and contentions of non-",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8789760
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8799597/jack-winter-inc-v-koratron-co/",
+      "attorney": "Heller, Ehrman, White & McAuliffe by M. Laurence Popofsky, San Francisco, Cal., for Levi Strauss & Co., Phelps, Hall & Keller by Glen E. Keller, Jr., Denver, Colo., Watson, Leavenworth, Kelton & Taggart by Thomas Y. Heyman, New York City, for Bayly Manufacturing Co. and Henry I. Siegel Co., Inc., Hunton, Williams, Gay, Powell & Gibson by Lewis T. Booker, Richmond, Va., for Dan River Mills, Inc., Curtis, Morris & Safford by Robert D. Spille, New York City, for Deering Milliken, Inc., Brobeck, Phleger & Harrison by Robert S. Daggett, San Francisco, Cal., Lyon & Lyon by James W. Geriak, Los Angeles, Cal., for Koratron Co., Inc. and Koraeorp Industries, Inc., Weltner, Kidd & Crumbley by Charles M. Kidd, Atlanta, Ga., for Oxford Industries, Inc.",
+      "caseName": "Jack Winter, Inc. v. Koratron Co.",
+      "caseNameFull": "JACK WINTER, INC., a corporation v. KORATRON COMPANY, INC., a corporation, Defendant KORATRON COMPANY, INC., a corporation, Counterclaimant v. JACK WINTER, INC., a corporation, Counterclaim And All Cases Consolidated for Pretrial Purposes",
+      "citation": [
+        "54 F.R.D. 44",
+        "172 U.S.P.Q. (BNA) 201",
+        "1971 U.S. Dist. LEXIS 10668",
+        "1972 Trade Cas. (CCH) 74,037"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8799597,
+      "court": "District Court, N.D. California",
+      "court_citation_string": "N.D. Cal.",
+      "court_id": "cand",
+      "dateArgued": null,
+      "dateFiled": "1971-11-22",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Civ. A. Nos. 49392, 47273, 49671, 50063, 50854, 51301, 51653, 51691, 49558, 49913, 50827, 51281, 51650, 51654, C-701252 and C-701443",
+      "docket_id": 66065714,
+      "judge": "Doyle",
+      "lexisCite": "1971 U.S. Dist. LEXIS 10668",
+      "meta": {
+        "timestamp": "2024-06-22T21:39:30.911612Z",
+        "date_created": "2022-11-26T13:27:37.990086Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8783727,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T05:07:20.943973Z",
+            "date_created": "2022-11-26T13:27:38.000830Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nMEMORANDUM OPINION RE PRIVILEGED DOCUMENTS\nWILLIAM E. DOYLE, District Judge.\nIn this multidistrict litigation there has arisen a problem late in the proceedings having to do with numerous documents in the files of Koratron. In the *46course of discovery proceedings, just pri- or to the final closing, it appeared that these documents existed. We determi",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8783727
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8798127/jack-winter-inc-v-koratron-co/",
+      "attorney": "Eckhoff & Hoppe, by Carl Hoppe, San Francisco, Cal., for Jack Winter, Inc., Brobeck, Phleger & Harrison, by Robert S. Daggett, Richard Wydick, San Francisco, Cal., for Koratron Co., Inc. and Koracorp., Flam & Flam, by Fred Flam, Los Angeles, Cal., for A-l Cotson., Morgan, Finnegan, Durham & Pine, by John C. Vassil, New York City, Hun-ton, Williams, Gay, Powell & Gibson, by Lewis T. Booker, Richmond, Va., for Dan River Mills, Inc., Paul, Weiss, Goldberg, Rifkind, Wharton & Garrison, by Bernard Ouziel, Curtis, Morris & Safford and Robert D. Spille, New York City, for Deering-Millikin, Inc., Richards, Harrison & Hubbard, by D. Carl Richards, Dallas, Tex., for Haggar & Amory., Heller, Ehrman, White & McAuliffe, by M. Laurence Popofsky, Stephen V. Bomse, San Francisco, Cal., Limbach, Limbach & Sutton, by John P. Sutton, San Francisco, Cal., for Levi Strauss & Co., Bronson, Bronson & McKinnon, by Charles A. Legge, San Francisco, Cal., for Metro Pants Co., Watson Leavenworth Kelton & Taggart, Albert Robin and Thomas V. Hey-man, New York City, for Henry I. Siegel Co., Inc. and Bayly Mfg. Co., Phelps, Hall & Keller, and Glen E. Keller, Jr., Denver, Colo., for Bayly Mfg. Co., King & Spalding and Charles M. Kidd, Atlanta, Ga., for Oxford Industries, Inc., David Rabin, Greensboro, N. C., for Blue Bell, Inc., Browne, Beveridge & DeGrandi and Dayton R. S.temple, Jr., Washington, D. C., for Salant & Salant and Standard Romper., Margaret E. White, San Francisco, Cal., on behalf of the witness.",
+      "caseName": "Jack Winter, Inc. v. Koratron Co.",
+      "caseNameFull": "JACK WINTER, INC., a corporation v. KORATRON COMPANY, Inc., a corporation, Defendant KORATRON COMPANY, Inc., a corporation, Counterclaim v. JACK WINTER, INC., a corporation, Counterclaim Defendant LEVI STRAUSS & CO., a corporation v. KORATRON COMPANY, Inc., a corporation, Defendants KORATRON COMPANY, Inc., a corporation, Third-Party v. DAN RIVER MILLS, INCORPORATED, a corporation, Third-Party",
+      "citation": [
+        "50 F.R.D. 225",
+        "14 Fed. R. Serv. 2d 755",
+        "166 U.S.P.Q. (BNA) 295",
+        "1970 U.S. Dist. LEXIS 11091"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8798127,
+      "court": "District Court, N.D. California",
+      "court_citation_string": "N.D. Cal.",
+      "court_id": "cand",
+      "dateArgued": null,
+      "dateFiled": "1970-06-30",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Civ. A. Nos. 49392, 49913, 47273, 50063, 49558, 51281, 49671, 51301, 51654, 51691 and C-69471",
+      "docket_id": 66064244,
+      "judge": "Doyle",
+      "lexisCite": "1970 U.S. Dist. LEXIS 11091",
+      "meta": {
+        "timestamp": "2024-06-22T21:39:03.912220Z",
+        "date_created": "2022-11-26T13:23:07.073925Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8782226,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T05:07:00.276306Z",
+            "date_created": "2022-11-26T13:23:07.078811Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nMEMORANDUM OPINION AND ORDER\nWILLIAM E. DOYLE, District Judge.\nThis cause is presently before us upon the motion of the adversaries to Kora*227tron to compel answers to certain questions propounded at the taking of the deposition of Arlington C. White, an attorney at law specializing in patent and trademark matters. White refused to answer a substa",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8782226
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8523955/le-van-voegler-v-myrtle-in-re-myrtle/",
+      "attorney": "Brian Keith Brake, Lenhart Obenschain, P.C., Harrisonburg, VA, for Plaintiffs., Douglas W. Harold, Jr., White Post, VA, for Defendants.",
+      "caseName": "Le Van-Voegler v. Myrtle (In re Myrtle)",
+      "caseNameFull": "In re Walter T. MYRTLE and Amanda M. Myrtle, Debtors. Laura A. Le Van-Voegler And Christoph J. Voegler v. Walter T. Myrtle and Amanda M. Myrtle",
+      "citation": [
+        "500 B.R. 441"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8523955,
+      "court": "United States Bankruptcy Court, W.D. Virginia",
+      "court_citation_string": "Bankr. W.D. Va.",
+      "court_id": "vawb",
+      "dateArgued": null,
+      "dateFiled": "2013-10-15",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Bankruptcy No. 12-51281; Adversary No. 12-05074",
+      "docket_id": 65785629,
+      "judge": "Connelly",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T19:49:14.890107Z",
+        "date_created": "2022-11-22T22:39:46.682625Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8496436,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T04:05:59.188540Z",
+            "date_created": "2022-11-22T22:39:46.690482Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nMEMORANDUM OPINION DENYING DEBTOR-DEFENDANTS\u2019 MOTION FOR SUMMARY JUDGMENT\nREBECCA B. CONNELLY, Bankruptcy Judge.\nLaura Van-Voegler and Christoph Voe-gler filed this adversary proceeding seeking a determination that the debt they allegedly hold against the debtors, Walter and Amanda Myrtle, is non-dischargeable under 11 U.S.C. \u00a7 523(a)(2)(A). On the eve of the pre-trial conference, the debtors filed a moti",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8496436
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8129067/protests-977742-g-of-new-york-merchandise-co/",
+      "attorney": "",
+      "caseName": "Protests 977742-G of New York Merchandise Co.",
+      "caseNameFull": "Protests 977742-G, etc., of New York Merchandise Co., Inc. (New York)",
+      "citation": [
+        "17 Cust. Ct. 175"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8129067,
+      "court": "United States Customs Court",
+      "court_citation_string": "Cust. Ct.",
+      "court_id": "cusc",
+      "dateArgued": null,
+      "dateFiled": "1946-08-30",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "No. 51281",
+      "docket_id": 65225003,
+      "judge": "Lawrence",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T17:13:28.180084Z",
+        "date_created": "2022-09-09T14:11:54.620116Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8090157,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T02:54:39.952920Z",
+            "date_created": "2022-09-09T14:11:54.627886Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nOpinion by\nLawrence, J.\nProm the uncontradicted evidence it was held that the Christmas tree lamps similar in all material respects to those the subject of New York Merchandise Co., Inc. v. United States (16 Cust. Ct. 148, C. D. 1003) and the brass-base shells the same as those involved in New York Merchandise Co., Inc. v. United States (8 Cust. Ct. 209, C. D. 607) are dutiable",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8090157
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/7264672/state-ex-rel-magee-v-henderson/",
+      "attorney": "",
+      "caseName": "State ex rel. Magee v. Henderson",
+      "caseNameFull": "STATE of Louisiana ex rel. Lawrence MAGEE v. C. Murray HENDERSON, Warden, Louisiana State Penitentiary",
+      "citation": [
+        "258 La. 341",
+        "246 So. 2d 194",
+        "1971 La. LEXIS 4547"
+      ],
+      "citeCount": 0,
+      "cluster_id": 7264672,
+      "court": "Supreme Court of Louisiana",
+      "court_citation_string": "La.",
+      "court_id": "la",
+      "dateArgued": null,
+      "dateFiled": "1971-04-07",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "No. 51281",
+      "docket_id": 64253054,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T13:21:28.557640Z",
+        "date_created": "2022-07-24T16:45:29.269690Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 7179353,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-24T23:59:39.819720Z",
+            "date_created": "2022-07-24T16:45:29.275755Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nIn re: Lawrence Magee applying for writs of certiorari and habeas corpus.\nWrit granted. The trial court is ordered to grant an evidentiary hearing limited to the question of whether applicant\u2019s plea of guilty was knowing and intelligent.\n",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        7179353
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/5242419/state-v-moore/",
+      "attorney": "Henry B. Robertson, Asst. Public Defender, St. Louis, for appellant., William L. Webster, Atty. Gen., John M. Morris, Asst. Atty. Gen., Jefferson City, for respondent.",
+      "caseName": "State v. Moore",
+      "caseNameFull": "STATE of Missouri v. Jesse MOORE",
+      "citation": [
+        "721 S.W.2d 141",
+        "1986 Mo. App. LEXIS 4914"
+      ],
+      "citeCount": 0,
+      "cluster_id": 5242419,
+      "court": "Missouri Court of Appeals",
+      "court_citation_string": "Mo. Ct. App.",
+      "court_id": "moctapp",
+      "dateArgued": null,
+      "dateFiled": "1986-11-04",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "No. 51281",
+      "docket_id": 60572747,
+      "judge": "Crist, Dowd, Reinhard",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T04:21:00.174380Z",
+        "date_created": "2021-10-01T10:16:55.419520Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 5068168,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-24T11:47:41.907316Z",
+            "date_created": "2021-10-01T10:16:55.429795Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nCRIST, Judge.\nAppeal from conviction, after a jury trial, of three counts of sodomy of a child under the age of fourteen, \u00a7 566.060.3, RSMo (Cum.Supp.1984), and one count of trespass in the first degree, \u00a7 569.140, RSMo (1978). Defendant was charged with breaking down the door of an apartment on January 1,1985, entering that apartment, and thrice sodomizing its sole occupant, an eight year old boy. The acts charged are anal ",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        5068168
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/4936647/filetto-v-smith/",
+      "attorney": "",
+      "caseName": "Filetto v. Smith",
+      "caseNameFull": "Joseph Filetto v. Lance Smith",
+      "citation": [
+        "120 Wash. App. 1020",
+        "2004 Wash. App. LEXIS 868"
+      ],
+      "citeCount": 0,
+      "cluster_id": 4936647,
+      "court": "Court of Appeals of Washington",
+      "court_citation_string": "Wash. Ct. App.",
+      "court_id": "washctapp",
+      "dateArgued": null,
+      "dateFiled": "2004-02-17",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "No. 51281-1-I",
+      "docket_id": 60157174,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T03:03:33.633986Z",
+        "date_created": "2021-08-12T17:38:54.553069Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 4744401,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-24T09:19:35.443708Z",
+            "date_created": "2021-08-12T17:38:54.561194Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nAppeal from judgments of the Superior Court for Snohomish County, No. 01-2-05192-8, Joseph A. Thibodeau, J., entered August 8 and October 4, 2002. Affirmed by unpublished opinion per Appelwick, J., concurred in by Coleman and Grosse, JJ.\n",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        4744401
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/4647219/aaamg-leasing-corp-v-ny-cent-mut-ins-co/",
+      "attorney": "",
+      "caseName": "AAAMG Leasing Corp. v. NY Cent. Mut. Ins. Co.",
+      "caseNameFull": "",
+      "citation": [],
+      "citeCount": 0,
+      "cluster_id": 4647219,
+      "court": "Appellate Terms of the Supreme Court of New York",
+      "court_citation_string": "N.Y. App. Term.",
+      "court_id": "nyappterm",
+      "dateArgued": null,
+      "dateFiled": "2019-08-02",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "2019 NYSlipOp 51281(U)",
+      "docket_id": 16039926,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T01:45:04.563009Z",
+        "date_created": "2019-08-09T19:48:57.611857Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": "http://www.nycourts.gov/reporter/3dseries/2019/2019_51281.htm",
+          "id": 4424472,
+          "joined_by_ids": [],
+          "local_path": "wpd/2019/08/02/aaamg_leasing_corp._v._ny_cent._mut._ins._co..wpd",
+          "meta": {
+            "timestamp": "2024-06-24T06:45:53.851912Z",
+            "date_created": "2019-08-09T19:48:57.615670Z"
+          },
+          "per_curiam": false,
+          "sha1": "b0e25a9ebb0b5f3a322c28e6b31db5ea39f5af23",
+          "snippet": "Unable to extract the content from this file. Please try reading the original.",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        4424472
+      ],
+      "source": "C",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/4256976/125-ct-st-llc-v-nicholson/",
+      "attorney": "",
+      "caseName": "125 Ct. St., LLC v. Nicholson",
+      "caseNameFull": "",
+      "citation": [],
+      "citeCount": 0,
+      "cluster_id": 4256976,
+      "court": "Appellate Terms of the Supreme Court of New York",
+      "court_citation_string": "N.Y. App. Term.",
+      "court_id": "nyappterm",
+      "dateArgued": null,
+      "dateFiled": "2016-09-07",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "2016 NYSlipOp 51281(U)",
+      "docket_id": 4422493,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T23:52:06.687880Z",
+        "date_created": "2016-09-16T03:05:01.703134Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": "http://www.nycourts.gov/reporter/3dseries/2016/2016_51281.htm",
+          "id": 4034237,
+          "joined_by_ids": [],
+          "local_path": "wpd/2016/09/07/125_ct._st._llc_v._nicholson.wpd",
+          "meta": {
+            "timestamp": "2024-06-24T04:04:37.768016Z",
+            "date_created": "2016-09-16T03:05:01.710399Z"
+          },
+          "per_curiam": false,
+          "sha1": "5b0ae18ddc871e7f0ff966786d446fcf9314a3e8",
+          "snippet": "Unable to extract the content from this file. Please try reading the original.",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        4034237
+      ],
+      "source": "C",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/2374700/calvert-v-super-propane-corporation/",
+      "attorney": "Morgan M. Moulder, Camdenton, for appellant., Donnelly & Donnelly, David Donnelly, Lebanon, for respondents.",
+      "caseName": "Calvert v. Super Propane Corporation",
+      "caseNameFull": "Myrtle CALVERT, Appellant, v. SUPER PROPANE CORPORATION, a Corporation, D/B/A Camden S. P. Gas Company, and Basil Dean, Respondents",
+      "citation": [
+        "400 S.W.2d 133",
+        "1966 Mo. LEXIS 830"
+      ],
+      "citeCount": 5,
+      "cluster_id": 2374700,
+      "court": "Supreme Court of Missouri",
+      "court_citation_string": "Mo.",
+      "court_id": "mo",
+      "dateArgued": null,
+      "dateFiled": "1966-02-14",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 2219061,
+      "judge": "Barrett, Pritchard, Stockard",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T11:09:24.698629Z",
+        "date_created": "2014-10-30T22:43:08.264587Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [
+            1507573,
+            1568303,
+            1626771,
+            1731391,
+            1734080,
+            1738221,
+            2368229,
+            2368421,
+            2381875,
+            2389641,
+            2398233,
+            2398855,
+            2418215,
+            2418218,
+            2434337,
+            2439587,
+            2464743,
+            3529933,
+            3530812,
+            3531727
+          ],
+          "download_url": null,
+          "id": 2374700,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-23T17:36:52.298003Z",
+            "date_created": "2013-10-30T09:17:05.572898Z"
+          },
+          "per_curiam": false,
+          "sha1": "c20d98abb47eeedbcbca92f2f3032539031596ea",
+          "snippet": "\n400 S.W.2d 133 (1966)\nMyrtle CALVERT, Appellant,\nv.\nSUPER PROPANE CORPORATION, a corporation, d/b/a Camden S. P. Gas Company, and Basil Dean, Respondents.\nNo. 51281.\nSupreme Court of Missouri, Division No. 2.\nFebruary 14, 1966.\nOpinion Modified Motion and Motion for Rehearing or for Transfer Denied March 14, 1966.\n*135<",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        2374700
+      ],
+      "source": "LU",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/2260787/sarmento-v-henry-schein-inc/",
+      "attorney": "",
+      "caseName": "SARMENTO v. Henry Schein, Inc.",
+      "caseNameFull": "",
+      "citation": [
+        "238 P.3d 852",
+        "124 Nev. 1506",
+        "2008 Nev. LEXIS 274"
+      ],
+      "citeCount": 0,
+      "cluster_id": 2260787,
+      "court": "Nevada Supreme Court",
+      "court_citation_string": "Nev.",
+      "court_id": "nev",
+      "dateArgued": null,
+      "dateFiled": "2008-08-29",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 2113912,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T10:10:28.629974Z",
+        "date_created": "2014-10-30T22:01:40.011452Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 2260787,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-23T16:48:18.755799Z",
+            "date_created": "2013-10-30T08:55:05.163863Z"
+          },
+          "per_curiam": false,
+          "sha1": "d36e0c0a0e540b7c0d692d4dfd5e4dd8722d52cf",
+          "snippet": "\n238 P.3d 852 (2008)\nSARMENTO\nv.\nHENRY SCHEIN, INC.\nNo. 51281.\nSupreme Court of Nevada.\nAugust 29, 2008.\nDecision Without Published Opinion Dismissed-Stipulation.\n",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        2260787
+      ],
+      "source": "L",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/1460321/jack-winter-inc-v-koratron-company/",
+      "attorney": "Brobeck, Phleger & Harrison, by Moses Lasky, Robert S. Daggett, Richard C. Wydick, San Francisco, Cal., Lyon & Lyon, by James W. Geriak, Los Angeles, Cal., for Koratron Co., Inc., King & Spalding, by Charles M. Kidd, Atlanta, Ga., for Oxford Industries, Inc.",
+      "caseName": "Jack Winter, Inc. v. Koratron Company",
+      "caseNameFull": "JACK WINTER, INC., a Corporation, Plaintiff, v. KORATRON COMPANY, Inc., Defendant, and Consolidated Cases. OXFORD INDUSTRIES, INC., Wright Manufacturing Company, Corporations, Plaintiffs, v. KORATRON COMPANY, Inc., a Corporation, Et Al., Defendants",
+      "citation": [
+        "326 F. Supp. 121",
+        "1971 U.S. Dist. LEXIS 14272"
+      ],
+      "citeCount": 12,
+      "cluster_id": 1460321,
+      "court": "District Court, N.D. California",
+      "court_citation_string": "N.D. Cal.",
+      "court_id": "cand",
+      "dateArgued": null,
+      "dateFiled": "1971-03-09",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Civ. A. 49392, 47273, 49558, 49671, 49913, 50063, 50827, 50854, 51281, 51301, 51650, 51653, 51654, 51691",
+      "docket_id": 1023807,
+      "judge": "William E. Doyle",
+      "lexisCite": "1971 U.S. Dist. LEXIS 14272",
+      "meta": {
+        "timestamp": "2024-06-21T04:00:18.782141Z",
+        "date_created": "2014-10-30T13:50:22.262995Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [
+            106721,
+            237301,
+            244802,
+            273324,
+            275816,
+            291027,
+            1410353,
+            1419589,
+            1499523,
+            1609261,
+            1868179,
+            1872320,
+            1883821,
+            1969049,
+            2096139,
+            2341195,
+            2386368,
+            3294384
+          ],
+          "download_url": null,
+          "id": 1460321,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-23T11:02:13.037268Z",
+            "date_created": "2013-10-30T06:19:19.852468Z"
+          },
+          "per_curiam": false,
+          "sha1": "6d8093c19d709708b7e31a9e6997576a0bc9597d",
+          "snippet": "\n326 F.Supp. 121 (1971)\nJACK WINTER, INC., a corporation, Plaintiff,\nv.\nKORATRON COMPANY, Inc., Defendant, and Consolidated Cases.\nOXFORD INDUSTRIES, INC., Wright Manufacturing Company, corporations, Plaintiffs,\nv.\nKORATRON COMPANY, Inc., a corporation, et al., Defendants.\nCiv. A. Nos. 49392, 47273, 49558, 49671, 49913, 50063, 50827, 50854, 51281, 51301, 51650, 51653, 51654, 51691.\nUnited St",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        1460321
+      ],
+      "source": "LU",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/1373245/williams-v-leonard-heating-airconditioning-company-inc/",
+      "attorney": "John F. Sweet, Gale W. Mull, for appellant., Dillard, Dillard & Shearer, G. Douglas Dillard, for appellee.",
+      "caseName": "Williams v. LEONARD HEATING & AIRCONDITIONING COMPANY, INC.",
+      "caseNameFull": "Williams v. Leonard Heating & Air Conditioning Company, Inc.",
+      "citation": [
+        "223 S.E.2d 2",
+        "137 Ga. App. 16",
+        "1975 Ga. App. LEXIS 1192"
+      ],
+      "citeCount": 2,
+      "cluster_id": 1373245,
+      "court": "Court of Appeals of Georgia",
+      "court_citation_string": "Ga. Ct. App.",
+      "court_id": "gactapp",
+      "dateArgued": null,
+      "dateFiled": "1975-11-14",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 805680,
+      "judge": "Quillian, Pannell, Clark",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T03:29:53.632279Z",
+        "date_created": "2014-10-30T12:22:15.260397Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": 7176,
+          "cites": [
+            5551132,
+            5564104,
+            5571947
+          ],
+          "download_url": null,
+          "id": 1373245,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-23T10:23:54.940881Z",
+            "date_created": "2013-10-30T05:50:36.953936Z"
+          },
+          "per_curiam": false,
+          "sha1": "a7d629f8a28eba34e2d45ee3e696fba884f1065a",
+          "snippet": "\n137 Ga. App. 16 (1975)\n223 S.E.2d 2\nWILLIAMS\nv.\nLEONARD HEATING & AIRCONDITIONING COMPANY, INC.\n51281.\nCourt of Appeals of Georgia.\nArgued October 9, 1975.\nDecided November 14, 1975.\nRehearing Denied December 8, 1975.\nJohn F. Sweet, Gale W. Mull, for appellant.\nDillard, Dillard & Shea",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        1373245
+      ],
+      "source": "LU",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/1133090/barnes-v-state/",
+      "attorney": "Fledell Chain, Collins, for appellant. A.F. Summer, Atty. Gen. by Susan L. Runnels, Sp. Asst. Atty. Gen., Jackson, for appellee.",
+      "caseName": "Barnes v. State",
+      "caseNameFull": "Eddie B. Barnes v. State of Mississippi.",
+      "citation": [
+        "374 So. 2d 1308"
+      ],
+      "citeCount": 5,
+      "cluster_id": 1133090,
+      "court": "Mississippi Supreme Court",
+      "court_citation_string": "Miss.",
+      "court_id": "miss",
+      "dateArgued": null,
+      "dateFiled": "1979-09-19",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 1523387,
+      "judge": "Sugg",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T01:59:45.474731Z",
+        "date_created": "2014-10-30T17:23:13.111553Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [
+            1716969
+          ],
+          "download_url": null,
+          "id": 1133090,
+          "joined_by_ids": [],
+          "local_path": "mississippi/court_opinions/documents/0341a4a1c3a795fd.xml",
+          "meta": {
+            "timestamp": "2024-06-23T08:43:29.060920Z",
+            "date_created": "2013-10-30T04:17:09.609643Z"
+          },
+          "per_curiam": false,
+          "sha1": "9188e16a4a9581516dfc9a374d043fa4c0d9ee46",
+          "snippet": "\nDefendant was indicted for murder, convicted of manslaughter, and sentenced to fifteen years imprisonment by the Circuit Court of Covington County.\nThe trial lasted two days and at the end of the first day, the jurors were allowed to separate for the night by agreement of the state, the attorney for the defendant, and the defendant. The jury was not sequestered because the motels were crowded.\nDefendant does not assign as error failure to sequester the jury; however, the",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "Appeal from the Circuit Court, Covington County, George B. Grubbs, J.",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        1133090
+      ],
+      "source": "ZL",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    }
+  ]
+}
+{
+  "count": 16,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "absolute_url": "/opinion/10160267/breckon-v-breckon/",
+      "attorney": "",
+      "caseName": "Breckon v. Breckon",
+      "caseNameFull": "",
+      "citation": [],
+      "citeCount": 0,
+      "cluster_id": 10160267,
+      "court": "Idaho Court of Appeals",
+      "court_citation_string": "Idaho Ct. App.",
+      "court_id": "idahoctapp",
+      "dateArgued": null,
+      "dateFiled": "2024-09-05",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 69301688,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-10-23T17:45:52.727728Z",
+        "date_created": "2024-10-23T15:05:06.167940Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [
+            904333,
+            1186372,
+            2584053,
+            2600067,
+            4289457
+          ],
+          "download_url": "https://isc.idaho.gov/opinions/51281.pdf",
+          "id": 10626863,
+          "joined_by_ids": [],
+          "local_path": "pdf/2024/09/05/breckon_v._breckon.pdf",
+          "meta": {
+            "timestamp": "2024-10-23T17:45:52.719498Z",
+            "date_created": "2024-10-23T15:05:06.173162Z"
+          },
+          "per_curiam": false,
+          "sha1": "db7a8ca698dca920b527ad45f7e52207a6c20065",
+          "snippet": "               IN THE COURT OF APPEALS OF THE STATE OF IDAHO\n\n                                       Docket No. 51281\n\n KRISTIE BRECKON,                              )\n                                               ) Filed: September 5, 2024\n        Petitioner-Appellant,                  )\n                                               ) Melanie Gagnepain, Clerk\n v.                                            )\n                                               )\n JON BRECKON,                        ",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        10626863
+      ],
+      "source": "C",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8805517/jack-winter-inc-v-koratron-co/",
+      "attorney": "Foley & Lardner, by Timothy C. Frautschi, Marvin E. Klitsner, Milwaukee, Wis., Eckhoff & Hoppe, by Carl Hoppe, San Francisco, Cal., for Jack Winter, Inc., Heller, Ehrman, White & McAuliffe, by Lloyd W. Dinkelspiel, Jr., M. Laurence Popofsky, Stephen V. Bomse, Ellis & Levy, by Willard L. Ellis, Flehr, Hohbach, Test, Albritton & Herbert, by Paul D. Flehr, Limbach, Limbach & Sutton, by John P. Sutton, San Francisco, Cal., for Levi Strauss & Co., Phelps, Hall & Keller, by Glen E. Keller, Denver, Colo., Watson, Leavenworth, Kelton & Taggart, by Thomas V. Hey-man, Albert Robin, New York City, for Bayly Mfg. Co., Richards, Harris & Hubbard, by D. Carl Richards, Dallas, Tex., for Amory Garment Co. and Haggar Co., Watson, Leavenworth, Kelton & Taggart, by Thomas V. Heyman, Albert Robin, New York City, Miller, Groezinger, Pettit, Evers & Martin, by Harold C. Nachtrieb, Anthony G. Wilson, San Francisco, Cal., for Henry I. Siegel Co., Inc., King & Spalding, by Charles H. Kirbo, Charles M. Kidd, Atlanta, Ga., for Oxford Industries, Inc., Brobeck, Phleger & Harrison, by Moses Lasky, Robert S. Daggett, Richard C. Wydick, San Francisco, Cal., Lyon & Lyon, by James W. Geriak, Los Angeles, Cal., for Koratron Company, Inc. and Koracorp Industries, Inc., Paul, Weiss, Goldberg, Rifkind, Wharton & Garrison, by Simon H. Rifkind, Jay H. Topkis, Bernard Ouziel, Curtis, Morris & Safford, by Robert D. Spille, New York City, for Deering Milliken, Inc., Morrison, Foerster, Holloway, Clinton & Clark, by Girvan Peck, San Francisco, Cal., Hunton, Williams, Gay, Powell & Gibson, by Lewis T. Booker, Richmond, Va., Morgan, Finnegan, Durham & Pine, by John C. Vassil, New York City, for-Dan River Mills, Inc.",
+      "caseName": "Jack Winter, Inc. v. Koratron Co.",
+      "caseNameFull": "JACK WINTER, INC., a corporation v. KORATRON COMPANY, Inc., a corporation, Defendant KORATRON COMPANY, Inc., a corporation, Counterclaimant v. JACK WINTER, INC., a corporation, Counterclaim And All Cases Consolidated for Pretrial Purposes",
+      "citation": [
+        "329 F. Supp. 211",
+        "170 U.S.P.Q. (BNA) 316",
+        "1971 U.S. Dist. LEXIS 13490",
+        "1971 Trade Cas. (CCH) 73,742"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8805517,
+      "court": "District Court, N.D. California",
+      "court_citation_string": "N.D. Cal.",
+      "court_id": "cand",
+      "dateArgued": null,
+      "dateFiled": "1971-04-30",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Civ. A. No. 49392 and other cases, Nos. 47273, 49558, 49671, 49913, 50063, 50827, 50854, 51281, 51301, 51650, 51653, 51654 and 51691",
+      "docket_id": 66071636,
+      "judge": "Doyle",
+      "lexisCite": "1971 U.S. Dist. LEXIS 13490",
+      "meta": {
+        "timestamp": "2024-06-22T21:41:51.250695Z",
+        "date_created": "2022-11-26T13:47:17.704584Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8789760,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T05:08:46.089249Z",
+            "date_created": "2022-11-26T13:47:17.712750Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nMEMORANDUM OPINION AND ORDER RE MOTION OF DAN RIVER MILLS, INC. FOR SUMMARY JUDGMENT AS TO THIRD-PARTY COMPLAINT\nWILLIAM E. DOYLE, District Judge.\nThis is an additional facet of the so-called Koratron litigation. Orders with respect to motions for summary judgment have been issued recently, following extensive hearings on February 25-26, with respect to the validity of the \u2019432 patent and contentions of non-",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8789760
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8799597/jack-winter-inc-v-koratron-co/",
+      "attorney": "Heller, Ehrman, White & McAuliffe by M. Laurence Popofsky, San Francisco, Cal., for Levi Strauss & Co., Phelps, Hall & Keller by Glen E. Keller, Jr., Denver, Colo., Watson, Leavenworth, Kelton & Taggart by Thomas Y. Heyman, New York City, for Bayly Manufacturing Co. and Henry I. Siegel Co., Inc., Hunton, Williams, Gay, Powell & Gibson by Lewis T. Booker, Richmond, Va., for Dan River Mills, Inc., Curtis, Morris & Safford by Robert D. Spille, New York City, for Deering Milliken, Inc., Brobeck, Phleger & Harrison by Robert S. Daggett, San Francisco, Cal., Lyon & Lyon by James W. Geriak, Los Angeles, Cal., for Koratron Co., Inc. and Koraeorp Industries, Inc., Weltner, Kidd & Crumbley by Charles M. Kidd, Atlanta, Ga., for Oxford Industries, Inc.",
+      "caseName": "Jack Winter, Inc. v. Koratron Co.",
+      "caseNameFull": "JACK WINTER, INC., a corporation v. KORATRON COMPANY, INC., a corporation, Defendant KORATRON COMPANY, INC., a corporation, Counterclaimant v. JACK WINTER, INC., a corporation, Counterclaim And All Cases Consolidated for Pretrial Purposes",
+      "citation": [
+        "54 F.R.D. 44",
+        "172 U.S.P.Q. (BNA) 201",
+        "1971 U.S. Dist. LEXIS 10668",
+        "1972 Trade Cas. (CCH) 74,037"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8799597,
+      "court": "District Court, N.D. California",
+      "court_citation_string": "N.D. Cal.",
+      "court_id": "cand",
+      "dateArgued": null,
+      "dateFiled": "1971-11-22",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Civ. A. Nos. 49392, 47273, 49671, 50063, 50854, 51301, 51653, 51691, 49558, 49913, 50827, 51281, 51650, 51654, C-701252 and C-701443",
+      "docket_id": 66065714,
+      "judge": "Doyle",
+      "lexisCite": "1971 U.S. Dist. LEXIS 10668",
+      "meta": {
+        "timestamp": "2024-06-22T21:39:30.911612Z",
+        "date_created": "2022-11-26T13:27:37.990086Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8783727,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T05:07:20.943973Z",
+            "date_created": "2022-11-26T13:27:38.000830Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nMEMORANDUM OPINION RE PRIVILEGED DOCUMENTS\nWILLIAM E. DOYLE, District Judge.\nIn this multidistrict litigation there has arisen a problem late in the proceedings having to do with numerous documents in the files of Koratron. In the *46course of discovery proceedings, just pri- or to the final closing, it appeared that these documents existed. We determi",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8783727
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8798127/jack-winter-inc-v-koratron-co/",
+      "attorney": "Eckhoff & Hoppe, by Carl Hoppe, San Francisco, Cal., for Jack Winter, Inc., Brobeck, Phleger & Harrison, by Robert S. Daggett, Richard Wydick, San Francisco, Cal., for Koratron Co., Inc. and Koracorp., Flam & Flam, by Fred Flam, Los Angeles, Cal., for A-l Cotson., Morgan, Finnegan, Durham & Pine, by John C. Vassil, New York City, Hun-ton, Williams, Gay, Powell & Gibson, by Lewis T. Booker, Richmond, Va., for Dan River Mills, Inc., Paul, Weiss, Goldberg, Rifkind, Wharton & Garrison, by Bernard Ouziel, Curtis, Morris & Safford and Robert D. Spille, New York City, for Deering-Millikin, Inc., Richards, Harrison & Hubbard, by D. Carl Richards, Dallas, Tex., for Haggar & Amory., Heller, Ehrman, White & McAuliffe, by M. Laurence Popofsky, Stephen V. Bomse, San Francisco, Cal., Limbach, Limbach & Sutton, by John P. Sutton, San Francisco, Cal., for Levi Strauss & Co., Bronson, Bronson & McKinnon, by Charles A. Legge, San Francisco, Cal., for Metro Pants Co., Watson Leavenworth Kelton & Taggart, Albert Robin and Thomas V. Hey-man, New York City, for Henry I. Siegel Co., Inc. and Bayly Mfg. Co., Phelps, Hall & Keller, and Glen E. Keller, Jr., Denver, Colo., for Bayly Mfg. Co., King & Spalding and Charles M. Kidd, Atlanta, Ga., for Oxford Industries, Inc., David Rabin, Greensboro, N. C., for Blue Bell, Inc., Browne, Beveridge & DeGrandi and Dayton R. S.temple, Jr., Washington, D. C., for Salant & Salant and Standard Romper., Margaret E. White, San Francisco, Cal., on behalf of the witness.",
+      "caseName": "Jack Winter, Inc. v. Koratron Co.",
+      "caseNameFull": "JACK WINTER, INC., a corporation v. KORATRON COMPANY, Inc., a corporation, Defendant KORATRON COMPANY, Inc., a corporation, Counterclaim v. JACK WINTER, INC., a corporation, Counterclaim Defendant LEVI STRAUSS & CO., a corporation v. KORATRON COMPANY, Inc., a corporation, Defendants KORATRON COMPANY, Inc., a corporation, Third-Party v. DAN RIVER MILLS, INCORPORATED, a corporation, Third-Party",
+      "citation": [
+        "50 F.R.D. 225",
+        "14 Fed. R. Serv. 2d 755",
+        "166 U.S.P.Q. (BNA) 295",
+        "1970 U.S. Dist. LEXIS 11091"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8798127,
+      "court": "District Court, N.D. California",
+      "court_citation_string": "N.D. Cal.",
+      "court_id": "cand",
+      "dateArgued": null,
+      "dateFiled": "1970-06-30",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Civ. A. Nos. 49392, 49913, 47273, 50063, 49558, 51281, 49671, 51301, 51654, 51691 and C-69471",
+      "docket_id": 66064244,
+      "judge": "Doyle",
+      "lexisCite": "1970 U.S. Dist. LEXIS 11091",
+      "meta": {
+        "timestamp": "2024-06-22T21:39:03.912220Z",
+        "date_created": "2022-11-26T13:23:07.073925Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8782226,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T05:07:00.276306Z",
+            "date_created": "2022-11-26T13:23:07.078811Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nMEMORANDUM OPINION AND ORDER\nWILLIAM E. DOYLE, District Judge.\nThis cause is presently before us upon the motion of the adversaries to Kora*227tron to compel answers to certain questions propounded at the taking of the deposition of Arlington C. White, an attorney at law specializing in patent and trademark matters. White refused to answer a substa",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8782226
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8523955/le-van-voegler-v-myrtle-in-re-myrtle/",
+      "attorney": "Brian Keith Brake, Lenhart Obenschain, P.C., Harrisonburg, VA, for Plaintiffs., Douglas W. Harold, Jr., White Post, VA, for Defendants.",
+      "caseName": "Le Van-Voegler v. Myrtle (In re Myrtle)",
+      "caseNameFull": "In re Walter T. MYRTLE and Amanda M. Myrtle, Debtors. Laura A. Le Van-Voegler And Christoph J. Voegler v. Walter T. Myrtle and Amanda M. Myrtle",
+      "citation": [
+        "500 B.R. 441"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8523955,
+      "court": "United States Bankruptcy Court, W.D. Virginia",
+      "court_citation_string": "Bankr. W.D. Va.",
+      "court_id": "vawb",
+      "dateArgued": null,
+      "dateFiled": "2013-10-15",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Bankruptcy No. 12-51281; Adversary No. 12-05074",
+      "docket_id": 65785629,
+      "judge": "Connelly",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T19:49:14.890107Z",
+        "date_created": "2022-11-22T22:39:46.682625Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8496436,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T04:05:59.188540Z",
+            "date_created": "2022-11-22T22:39:46.690482Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nMEMORANDUM OPINION DENYING DEBTOR-DEFENDANTS\u2019 MOTION FOR SUMMARY JUDGMENT\nREBECCA B. CONNELLY, Bankruptcy Judge.\nLaura Van-Voegler and Christoph Voe-gler filed this adversary proceeding seeking a determination that the debt they allegedly hold against the debtors, Walter and Amanda Myrtle, is non-dischargeable under 11 U.S.C. \u00a7 523(a)(2)(A). On the eve of the pre-trial conference, the debtors filed a moti",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8496436
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/8129067/protests-977742-g-of-new-york-merchandise-co/",
+      "attorney": "",
+      "caseName": "Protests 977742-G of New York Merchandise Co.",
+      "caseNameFull": "Protests 977742-G, etc., of New York Merchandise Co., Inc. (New York)",
+      "citation": [
+        "17 Cust. Ct. 175"
+      ],
+      "citeCount": 0,
+      "cluster_id": 8129067,
+      "court": "United States Customs Court",
+      "court_citation_string": "Cust. Ct.",
+      "court_id": "cusc",
+      "dateArgued": null,
+      "dateFiled": "1946-08-30",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "No. 51281",
+      "docket_id": 65225003,
+      "judge": "Lawrence",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T17:13:28.180084Z",
+        "date_created": "2022-09-09T14:11:54.620116Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 8090157,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-25T02:54:39.952920Z",
+            "date_created": "2022-09-09T14:11:54.627886Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nOpinion by\nLawrence, J.\nProm the uncontradicted evidence it was held that the Christmas tree lamps similar in all material respects to those the subject of New York Merchandise Co., Inc. v. United States (16 Cust. Ct. 148, C. D. 1003) and the brass-base shells the same as those involved in New York Merchandise Co., Inc. v. United States (8 Cust. Ct. 209, C. D. 607) are dutiable",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        8090157
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/7264672/state-ex-rel-magee-v-henderson/",
+      "attorney": "",
+      "caseName": "State ex rel. Magee v. Henderson",
+      "caseNameFull": "STATE of Louisiana ex rel. Lawrence MAGEE v. C. Murray HENDERSON, Warden, Louisiana State Penitentiary",
+      "citation": [
+        "258 La. 341",
+        "246 So. 2d 194",
+        "1971 La. LEXIS 4547"
+      ],
+      "citeCount": 0,
+      "cluster_id": 7264672,
+      "court": "Supreme Court of Louisiana",
+      "court_citation_string": "La.",
+      "court_id": "la",
+      "dateArgued": null,
+      "dateFiled": "1971-04-07",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "No. 51281",
+      "docket_id": 64253054,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T13:21:28.557640Z",
+        "date_created": "2022-07-24T16:45:29.269690Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 7179353,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-24T23:59:39.819720Z",
+            "date_created": "2022-07-24T16:45:29.275755Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nIn re: Lawrence Magee applying for writs of certiorari and habeas corpus.\nWrit granted. The trial court is ordered to grant an evidentiary hearing limited to the question of whether applicant\u2019s plea of guilty was knowing and intelligent.\n",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        7179353
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/5242419/state-v-moore/",
+      "attorney": "Henry B. Robertson, Asst. Public Defender, St. Louis, for appellant., William L. Webster, Atty. Gen., John M. Morris, Asst. Atty. Gen., Jefferson City, for respondent.",
+      "caseName": "State v. Moore",
+      "caseNameFull": "STATE of Missouri v. Jesse MOORE",
+      "citation": [
+        "721 S.W.2d 141",
+        "1986 Mo. App. LEXIS 4914"
+      ],
+      "citeCount": 0,
+      "cluster_id": 5242419,
+      "court": "Missouri Court of Appeals",
+      "court_citation_string": "Mo. Ct. App.",
+      "court_id": "moctapp",
+      "dateArgued": null,
+      "dateFiled": "1986-11-04",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "No. 51281",
+      "docket_id": 60572747,
+      "judge": "Crist, Dowd, Reinhard",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T04:21:00.174380Z",
+        "date_created": "2021-10-01T10:16:55.419520Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 5068168,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-24T11:47:41.907316Z",
+            "date_created": "2021-10-01T10:16:55.429795Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nCRIST, Judge.\nAppeal from conviction, after a jury trial, of three counts of sodomy of a child under the age of fourteen, \u00a7 566.060.3, RSMo (Cum.Supp.1984), and one count of trespass in the first degree, \u00a7 569.140, RSMo (1978). Defendant was charged with breaking down the door of an apartment on January 1,1985, entering that apartment, and thrice sodomizing its sole occupant, an eight year old boy. The acts charged are anal ",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        5068168
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/4936647/filetto-v-smith/",
+      "attorney": "",
+      "caseName": "Filetto v. Smith",
+      "caseNameFull": "Joseph Filetto v. Lance Smith",
+      "citation": [
+        "120 Wash. App. 1020",
+        "2004 Wash. App. LEXIS 868"
+      ],
+      "citeCount": 0,
+      "cluster_id": 4936647,
+      "court": "Court of Appeals of Washington",
+      "court_citation_string": "Wash. Ct. App.",
+      "court_id": "washctapp",
+      "dateArgued": null,
+      "dateFiled": "2004-02-17",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "No. 51281-1-I",
+      "docket_id": 60157174,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T03:03:33.633986Z",
+        "date_created": "2021-08-12T17:38:54.553069Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 4744401,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-24T09:19:35.443708Z",
+            "date_created": "2021-08-12T17:38:54.561194Z"
+          },
+          "per_curiam": false,
+          "sha1": "",
+          "snippet": "\nAppeal from judgments of the Superior Court for Snohomish County, No. 01-2-05192-8, Joseph A. Thibodeau, J., entered August 8 and October 4, 2002. Affirmed by unpublished opinion per Appelwick, J., concurred in by Coleman and Grosse, JJ.\n",
+          "type": "lead-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        4744401
+      ],
+      "source": "U",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/4647219/aaamg-leasing-corp-v-ny-cent-mut-ins-co/",
+      "attorney": "",
+      "caseName": "AAAMG Leasing Corp. v. NY Cent. Mut. Ins. Co.",
+      "caseNameFull": "",
+      "citation": [],
+      "citeCount": 0,
+      "cluster_id": 4647219,
+      "court": "Appellate Terms of the Supreme Court of New York",
+      "court_citation_string": "N.Y. App. Term.",
+      "court_id": "nyappterm",
+      "dateArgued": null,
+      "dateFiled": "2019-08-02",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "2019 NYSlipOp 51281(U)",
+      "docket_id": 16039926,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-22T01:45:04.563009Z",
+        "date_created": "2019-08-09T19:48:57.611857Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": "http://www.nycourts.gov/reporter/3dseries/2019/2019_51281.htm",
+          "id": 4424472,
+          "joined_by_ids": [],
+          "local_path": "wpd/2019/08/02/aaamg_leasing_corp._v._ny_cent._mut._ins._co..wpd",
+          "meta": {
+            "timestamp": "2024-06-24T06:45:53.851912Z",
+            "date_created": "2019-08-09T19:48:57.615670Z"
+          },
+          "per_curiam": false,
+          "sha1": "b0e25a9ebb0b5f3a322c28e6b31db5ea39f5af23",
+          "snippet": "Unable to extract the content from this file. Please try reading the original.",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        4424472
+      ],
+      "source": "C",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/4256976/125-ct-st-llc-v-nicholson/",
+      "attorney": "",
+      "caseName": "125 Ct. St., LLC v. Nicholson",
+      "caseNameFull": "",
+      "citation": [],
+      "citeCount": 0,
+      "cluster_id": 4256976,
+      "court": "Appellate Terms of the Supreme Court of New York",
+      "court_citation_string": "N.Y. App. Term.",
+      "court_id": "nyappterm",
+      "dateArgued": null,
+      "dateFiled": "2016-09-07",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "2016 NYSlipOp 51281(U)",
+      "docket_id": 4422493,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T23:52:06.687880Z",
+        "date_created": "2016-09-16T03:05:01.703134Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": "http://www.nycourts.gov/reporter/3dseries/2016/2016_51281.htm",
+          "id": 4034237,
+          "joined_by_ids": [],
+          "local_path": "wpd/2016/09/07/125_ct._st._llc_v._nicholson.wpd",
+          "meta": {
+            "timestamp": "2024-06-24T04:04:37.768016Z",
+            "date_created": "2016-09-16T03:05:01.710399Z"
+          },
+          "per_curiam": false,
+          "sha1": "5b0ae18ddc871e7f0ff966786d446fcf9314a3e8",
+          "snippet": "Unable to extract the content from this file. Please try reading the original.",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        4034237
+      ],
+      "source": "C",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/2374700/calvert-v-super-propane-corporation/",
+      "attorney": "Morgan M. Moulder, Camdenton, for appellant., Donnelly & Donnelly, David Donnelly, Lebanon, for respondents.",
+      "caseName": "Calvert v. Super Propane Corporation",
+      "caseNameFull": "Myrtle CALVERT, Appellant, v. SUPER PROPANE CORPORATION, a Corporation, D/B/A Camden S. P. Gas Company, and Basil Dean, Respondents",
+      "citation": [
+        "400 S.W.2d 133",
+        "1966 Mo. LEXIS 830"
+      ],
+      "citeCount": 5,
+      "cluster_id": 2374700,
+      "court": "Supreme Court of Missouri",
+      "court_citation_string": "Mo.",
+      "court_id": "mo",
+      "dateArgued": null,
+      "dateFiled": "1966-02-14",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 2219061,
+      "judge": "Barrett, Pritchard, Stockard",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T11:09:24.698629Z",
+        "date_created": "2014-10-30T22:43:08.264587Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [
+            1507573,
+            1568303,
+            1626771,
+            1731391,
+            1734080,
+            1738221,
+            2368229,
+            2368421,
+            2381875,
+            2389641,
+            2398233,
+            2398855,
+            2418215,
+            2418218,
+            2434337,
+            2439587,
+            2464743,
+            3529933,
+            3530812,
+            3531727
+          ],
+          "download_url": null,
+          "id": 2374700,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-23T17:36:52.298003Z",
+            "date_created": "2013-10-30T09:17:05.572898Z"
+          },
+          "per_curiam": false,
+          "sha1": "c20d98abb47eeedbcbca92f2f3032539031596ea",
+          "snippet": "\n400 S.W.2d 133 (1966)\nMyrtle CALVERT, Appellant,\nv.\nSUPER PROPANE CORPORATION, a corporation, d/b/a Camden S. P. Gas Company, and Basil Dean, Respondents.\nNo. 51281.\nSupreme Court of Missouri, Division No. 2.\nFebruary 14, 1966.\nOpinion Modified Motion and Motion for Rehearing or for Transfer Denied March 14, 1966.\n*135<",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        2374700
+      ],
+      "source": "LU",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/2260787/sarmento-v-henry-schein-inc/",
+      "attorney": "",
+      "caseName": "SARMENTO v. Henry Schein, Inc.",
+      "caseNameFull": "",
+      "citation": [
+        "238 P.3d 852",
+        "124 Nev. 1506",
+        "2008 Nev. LEXIS 274"
+      ],
+      "citeCount": 0,
+      "cluster_id": 2260787,
+      "court": "Nevada Supreme Court",
+      "court_citation_string": "Nev.",
+      "court_id": "nev",
+      "dateArgued": null,
+      "dateFiled": "2008-08-29",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 2113912,
+      "judge": "",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T10:10:28.629974Z",
+        "date_created": "2014-10-30T22:01:40.011452Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [],
+          "download_url": null,
+          "id": 2260787,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-23T16:48:18.755799Z",
+            "date_created": "2013-10-30T08:55:05.163863Z"
+          },
+          "per_curiam": false,
+          "sha1": "d36e0c0a0e540b7c0d692d4dfd5e4dd8722d52cf",
+          "snippet": "\n238 P.3d 852 (2008)\nSARMENTO\nv.\nHENRY SCHEIN, INC.\nNo. 51281.\nSupreme Court of Nevada.\nAugust 29, 2008.\nDecision Without Published Opinion Dismissed-Stipulation.\n",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        2260787
+      ],
+      "source": "L",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/1460321/jack-winter-inc-v-koratron-company/",
+      "attorney": "Brobeck, Phleger & Harrison, by Moses Lasky, Robert S. Daggett, Richard C. Wydick, San Francisco, Cal., Lyon & Lyon, by James W. Geriak, Los Angeles, Cal., for Koratron Co., Inc., King & Spalding, by Charles M. Kidd, Atlanta, Ga., for Oxford Industries, Inc.",
+      "caseName": "Jack Winter, Inc. v. Koratron Company",
+      "caseNameFull": "JACK WINTER, INC., a Corporation, Plaintiff, v. KORATRON COMPANY, Inc., Defendant, and Consolidated Cases. OXFORD INDUSTRIES, INC., Wright Manufacturing Company, Corporations, Plaintiffs, v. KORATRON COMPANY, Inc., a Corporation, Et Al., Defendants",
+      "citation": [
+        "326 F. Supp. 121",
+        "1971 U.S. Dist. LEXIS 14272"
+      ],
+      "citeCount": 12,
+      "cluster_id": 1460321,
+      "court": "District Court, N.D. California",
+      "court_citation_string": "N.D. Cal.",
+      "court_id": "cand",
+      "dateArgued": null,
+      "dateFiled": "1971-03-09",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "Civ. A. 49392, 47273, 49558, 49671, 49913, 50063, 50827, 50854, 51281, 51301, 51650, 51653, 51654, 51691",
+      "docket_id": 1023807,
+      "judge": "William E. Doyle",
+      "lexisCite": "1971 U.S. Dist. LEXIS 14272",
+      "meta": {
+        "timestamp": "2024-06-21T04:00:18.782141Z",
+        "date_created": "2014-10-30T13:50:22.262995Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [
+            106721,
+            237301,
+            244802,
+            273324,
+            275816,
+            291027,
+            1410353,
+            1419589,
+            1499523,
+            1609261,
+            1868179,
+            1872320,
+            1883821,
+            1969049,
+            2096139,
+            2341195,
+            2386368,
+            3294384
+          ],
+          "download_url": null,
+          "id": 1460321,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-23T11:02:13.037268Z",
+            "date_created": "2013-10-30T06:19:19.852468Z"
+          },
+          "per_curiam": false,
+          "sha1": "6d8093c19d709708b7e31a9e6997576a0bc9597d",
+          "snippet": "\n326 F.Supp. 121 (1971)\nJACK WINTER, INC., a corporation, Plaintiff,\nv.\nKORATRON COMPANY, Inc., Defendant, and Consolidated Cases.\nOXFORD INDUSTRIES, INC., Wright Manufacturing Company, corporations, Plaintiffs,\nv.\nKORATRON COMPANY, Inc., a corporation, et al., Defendants.\nCiv. A. Nos. 49392, 47273, 49558, 49671, 49913, 50063, 50827, 50854, 51281, 51301, 51650, 51653, 51654, 51691.\nUnited St",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        1460321
+      ],
+      "source": "LU",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/1373245/williams-v-leonard-heating-airconditioning-company-inc/",
+      "attorney": "John F. Sweet, Gale W. Mull, for appellant., Dillard, Dillard & Shearer, G. Douglas Dillard, for appellee.",
+      "caseName": "Williams v. LEONARD HEATING & AIRCONDITIONING COMPANY, INC.",
+      "caseNameFull": "Williams v. Leonard Heating & Air Conditioning Company, Inc.",
+      "citation": [
+        "223 S.E.2d 2",
+        "137 Ga. App. 16",
+        "1975 Ga. App. LEXIS 1192"
+      ],
+      "citeCount": 2,
+      "cluster_id": 1373245,
+      "court": "Court of Appeals of Georgia",
+      "court_citation_string": "Ga. Ct. App.",
+      "court_id": "gactapp",
+      "dateArgued": null,
+      "dateFiled": "1975-11-14",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 805680,
+      "judge": "Quillian, Pannell, Clark",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T03:29:53.632279Z",
+        "date_created": "2014-10-30T12:22:15.260397Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": 7176,
+          "cites": [
+            5551132,
+            5564104,
+            5571947
+          ],
+          "download_url": null,
+          "id": 1373245,
+          "joined_by_ids": [],
+          "local_path": null,
+          "meta": {
+            "timestamp": "2024-06-23T10:23:54.940881Z",
+            "date_created": "2013-10-30T05:50:36.953936Z"
+          },
+          "per_curiam": false,
+          "sha1": "a7d629f8a28eba34e2d45ee3e696fba884f1065a",
+          "snippet": "\n137 Ga. App. 16 (1975)\n223 S.E.2d 2\nWILLIAMS\nv.\nLEONARD HEATING & AIRCONDITIONING COMPANY, INC.\n51281.\nCourt of Appeals of Georgia.\nArgued October 9, 1975.\nDecided November 14, 1975.\nRehearing Denied December 8, 1975.\nJohn F. Sweet, Gale W. Mull, for appellant.\nDillard, Dillard & Shea",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        1373245
+      ],
+      "source": "LU",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    },
+    {
+      "absolute_url": "/opinion/1133090/barnes-v-state/",
+      "attorney": "Fledell Chain, Collins, for appellant. A.F. Summer, Atty. Gen. by Susan L. Runnels, Sp. Asst. Atty. Gen., Jackson, for appellee.",
+      "caseName": "Barnes v. State",
+      "caseNameFull": "Eddie B. Barnes v. State of Mississippi.",
+      "citation": [
+        "374 So. 2d 1308"
+      ],
+      "citeCount": 5,
+      "cluster_id": 1133090,
+      "court": "Mississippi Supreme Court",
+      "court_citation_string": "Miss.",
+      "court_id": "miss",
+      "dateArgued": null,
+      "dateFiled": "1979-09-19",
+      "dateReargued": null,
+      "dateReargumentDenied": null,
+      "docketNumber": "51281",
+      "docket_id": 1523387,
+      "judge": "Sugg",
+      "lexisCite": "",
+      "meta": {
+        "timestamp": "2024-06-21T01:59:45.474731Z",
+        "date_created": "2014-10-30T17:23:13.111553Z"
+      },
+      "neutralCite": "",
+      "non_participating_judge_ids": [],
+      "opinions": [
+        {
+          "author_id": null,
+          "cites": [
+            1716969
+          ],
+          "download_url": null,
+          "id": 1133090,
+          "joined_by_ids": [],
+          "local_path": "mississippi/court_opinions/documents/0341a4a1c3a795fd.xml",
+          "meta": {
+            "timestamp": "2024-06-23T08:43:29.060920Z",
+            "date_created": "2013-10-30T04:17:09.609643Z"
+          },
+          "per_curiam": false,
+          "sha1": "9188e16a4a9581516dfc9a374d043fa4c0d9ee46",
+          "snippet": "\nDefendant was indicted for murder, convicted of manslaughter, and sentenced to fifteen years imprisonment by the Circuit Court of Covington County.\nThe trial lasted two days and at the end of the first day, the jurors were allowed to separate for the night by agreement of the state, the attorney for the defendant, and the defendant. The jury was not sequestered because the motels were crowded.\nDefendant does not assign as error failure to sequester the jury; however, the",
+          "type": "combined-opinion"
+        }
+      ],
+      "panel_ids": [],
+      "panel_names": [],
+      "posture": "Appeal from the Circuit Court, Covington County, George B. Grubbs, J.",
+      "procedural_history": "",
+      "scdb_id": "",
+      "sibling_ids": [
+        1133090
+      ],
+      "source": "ZL",
+      "status": "Published",
+      "suitNature": "",
+      "syllabus": ""
+    }
+  ]
+}
